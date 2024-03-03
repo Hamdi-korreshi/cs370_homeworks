@@ -1,0 +1,8 @@
+jupyter
+pylint
+pytubefix
+opencv-python-headless
+psycopg-binary
+tqdm
+pytubefix
+huggingface_hub
