@@ -1,0 +1,9 @@
+jupyter
+matplotlib
+numpy
+psycopg2-binary
+pylint
+pytubefix
+opencv-python-headless
+torch
+torchvision
